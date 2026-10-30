@@ -1,0 +1,10 @@
+# служебное
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# локальные настройки
+.env
+*.local.md
