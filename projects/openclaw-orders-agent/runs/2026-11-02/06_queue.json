@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "pending_total": 6,
+  "items": [
+    {
+      "analysis_id": 21,
+      "order_id": 9,
+      "order_title": "Нужен специалист",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "не указан бюджет"
+    },
+    {
+      "analysis_id": 18,
+      "order_id": 6,
+      "order_title": "Доработать Telegram-бота для заявок",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "не указан бюджет"
+    },
+    {
+      "analysis_id": 16,
+      "order_id": 9,
+      "order_title": "Нужен специалист",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "не указан бюджет"
+    },
+    {
+      "analysis_id": 13,
+      "order_id": 6,
+      "order_title": "Доработать Telegram-бота для заявок",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "не указан бюджет"
+    },
+    {
+      "analysis_id": 7,
+      "order_id": 2,
+      "order_title": "Нужен разработчик Python",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "описание слишком короткое / не указан объём работ; не указан бюджет"
+    },
+    {
+      "analysis_id": 2,
+      "order_id": 2,
+      "order_title": "Нужен разработчик Python",
+      "match_score": null,
+      "recommendation": "review",
+      "review_reason": "описание слишком короткое / не указан объём работ; не указан бюджет"
+    }
+  ]
+}

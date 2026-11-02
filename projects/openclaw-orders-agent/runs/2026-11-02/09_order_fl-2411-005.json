@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "order_id": 9,
+  "external_id": "fl-2411-005",
+  "title": "Нужен специалист",
+  "budget": "не указан",
+  "order_status": "needs_review",
+  "analysis_id": 26,
+  "duration_ms": 5,
+  "provider": "mock",
+  "model": "mock-model",
+  "audit_status": "review",
+  "match_score": null,
+  "recommendation": "review",
+  "reason": "Недостаточно данных для надёжной оценки",
+  "matched_skills": [],
+  "missing_skills": [],
+  "needs_review": true,
+  "review_reason": "не указан бюджет",
+  "draft_reply": null,
+  "report": "reports/latest-order.md"
+}

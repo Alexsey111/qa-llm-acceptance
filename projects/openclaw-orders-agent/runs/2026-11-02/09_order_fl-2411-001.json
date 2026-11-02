@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "order_id": 5,
+  "external_id": "fl-2411-001",
+  "title": "AI-агент для разбора заявок и подготовки отчётов",
+  "budget": "80 000-140 000 RUB",
+  "order_status": "analyzed",
+  "analysis_id": 22,
+  "duration_ms": 5,
+  "provider": "mock",
+  "model": "mock-model",
+  "audit_status": "success",
+  "match_score": 1.0,
+  "recommendation": "apply",
+  "reason": "Полное совпадение по 7 требуемым навыкам",
+  "matched_skills": [
+    "AI automation",
+    "Docker",
+    "FastAPI",
+    "LLM",
+    "PostgreSQL",
+    "Python",
+    "REST API"
+  ],
+  "missing_skills": [],
+  "needs_review": false,
+  "review_reason": null,
+  "draft_reply": "Здравствуйте!\n\nМеня заинтересовал ваш заказ «AI-агент для разбора заявок и подготовки отчётов». По профилю у меня есть опыт в: AI automation, Docker, FastAPI, LLM, PostgreSQL, Python, REST API. Python-разработчик: backend, API, интеграции с LLM, автоматизация.\n\nПо вашей задаче могу предложить следующий план: уточнить требования, собрать прототип ключевой части, показать результат и затем довести до полной реализации с тестами и документацией.\n\nГотов начать в ближайшее время и держать вас в курсе на каждом этапе. Подскажите, пожалуйста, удобный формат связи и есть ли уже наработки по проекту?\n\nС уважением,\nОсновной профиль",
+  "report": "reports/latest-order.md"
+}

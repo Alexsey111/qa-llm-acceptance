@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "report": "reports/daily-summary.md",
+  "total_orders": 9,
+  "new_orders": 0,
+  "pending_review_orders": 3,
+  "pending_review_analyses": 6,
+  "recommended_to_apply": 4,
+  "metrics": {
+    "json_valid_rate": 1.0,
+    "review_share": 0.3333,
+    "analyses_total": 21,
+    "avg_analyze_duration_ms": 7.809523809523809
+  },
+  "metrics_note": null,
+  "llm_provider": "mock",
+  "llm_is_live": false
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "order_id": 7,
+  "external_id": "fl-2411-003",
+  "title": "Сделать лендинг на Tilda под запуск курса",
+  "budget": "40 000-40 000 RUB",
+  "order_status": "analyzed",
+  "analysis_id": 24,
+  "duration_ms": 5,
+  "provider": "mock",
+  "model": "mock-model",
+  "audit_status": "success",
+  "match_score": 0.0,
+  "recommendation": "skip",
+  "reason": "Совпало 0 из 3 требуемых навыков; не хватает: Design, SEO, WordPress",
+  "matched_skills": [],
+  "missing_skills": [
+    "Design",
+    "SEO",
+    "WordPress"
+  ],
+  "needs_review": false,
+  "review_reason": null,
+  "draft_reply": null,
+  "report": "reports/latest-order.md"
+}

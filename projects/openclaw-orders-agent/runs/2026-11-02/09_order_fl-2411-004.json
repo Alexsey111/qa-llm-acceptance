@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "order_id": 8,
+  "external_id": "fl-2411-004",
+  "title": "Парсер каталога поставщика и выгрузка в Excel",
+  "budget": "60 000-90 000 RUB",
+  "order_status": "analyzed",
+  "analysis_id": 25,
+  "duration_ms": 6,
+  "provider": "mock",
+  "model": "mock-model",
+  "audit_status": "success",
+  "match_score": 0.8333,
+  "recommendation": "apply",
+  "reason": "Совпало 5 из 6 требуемых навыков; не хватает: Excel",
+  "matched_skills": [
+    "Docker",
+    "Parsing",
+    "PostgreSQL",
+    "Python",
+    "REST API"
+  ],
+  "missing_skills": [
+    "Excel"
+  ],
+  "needs_review": false,
+  "review_reason": null,
+  "draft_reply": "Здравствуйте!\n\nМеня заинтересовал ваш заказ «Парсер каталога поставщика и выгрузка в Excel». По профилю у меня есть опыт в: Docker, Parsing, PostgreSQL, Python, REST API. Python-разработчик: backend, API, интеграции с LLM, автоматизация.\n\nПо вашей задаче могу предложить следующий план: уточнить требования, собрать прототип ключевой части, показать результат и затем довести до полной реализации с тестами и документацией.\n\nГотов начать в ближайшее время и держать вас в курсе на каждом этапе. Подскажите, пожалуйста, удобный формат связи и есть ли уже наработки по проекту?\n\nС уважением,\nОсновной профиль",
+  "report": "reports/latest-order.md"
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "api": "http://127.0.0.1:8800",
+  "status": "ok",
+  "database": "sqlite",
+  "llm_provider": "mock",
+  "llm_model": "mock-model",
+  "is_live": false,
+  "prompt_version": "v1.0",
+  "warning": "Активен mock-провайдер: сеть и деньги не используются."
+}
